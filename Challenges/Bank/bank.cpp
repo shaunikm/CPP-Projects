@@ -6,7 +6,7 @@
  * @version 1.0
 */
 #include <iostream>
-#include "settings.h"
+#include "settings.hpp"
 using namespace std;
 
 int main() {
